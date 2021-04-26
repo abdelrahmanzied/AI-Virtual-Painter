@@ -15,9 +15,12 @@ Real-time AI Virtual Painter or **Virtual Board** using only OpenCV.
 ## Features
 1. Change the **color** of the brush.
 2. Change the **size** of the brush.
-3. Use **eraser** to erase the draw with different sizes.
+3. Use the **eraser** to erase the draw with different sizes.
 4. **Clear** all draw.
-5. Save the sketch in **jpg** image.
+5. Save the sketch in a **jpg** image.
+
+![AI Virtual Painter](AI-Virtual-Painter.gif)
+
 
 
 ## Usage
